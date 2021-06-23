@@ -22,40 +22,20 @@ XAMPP 7.3.28 O cualquier Web Server
 
 _Se detalla la instalación, asumiendo que el usuario utilizará XAMPP como Web Server_
 
-_Instalar Maria DB 10.5.10 o posterior mediante el wizard estandar, sin destildar nada _
-_Instalar XAMPP DB 7.3.28 o posterior mediante el wizard estandar, sin destildar nada _
+1.  Instalar Maria DB 10.5.10 o posterior mediante el wizard estandar, sin destildar nada _
+ Instalar XAMPP DB 7.3.28 o posterior mediante el wizard estandar, sin destildar nada _
 
-Una vez que se ha instalado, verificar que los puertos tanto de http(80) y https(443) esten libres y caso contrario, modificarlos. Instalar tanto el servicio de MySQL y de Apache.
+2.  Una vez que se ha instalado, verificar que los puertos tanto de http(80) y https(443) esten libres y caso contrario, modificarlos. Instalar tanto el servicio de MySQL y de Apache.
 
-Copiar el directorio de SQLBloques, dentro de la carpeta C:\xampp\htdocs\sqlbloques, asumiendo que XAMPP esta instalado en tal directorio.
+3.  Copiar el directorio de SQLBloques, dentro de la carpeta C:\xampp\htdocs\sqlbloques, asumiendo que XAMPP esta instalado en tal directorio.
 
-Finalmanete laanzar ambos servicios mediante el boton "Start"
+4.  Finalmanete laanzar ambos servicios mediante el boton "Start"
 
-Acceder mediante Chrome a la URL: 
+5.  Acceder mediante Chrome a la URL: 
 
 http://localhost:8080/sqlbloques/
 
-*Se modificó el puerto de http de 80 a 8080
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
+*En el ejemplo se modificó el puerto de http de 80 a 8080
 
 
 
