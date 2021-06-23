@@ -5,8 +5,9 @@ Lenguaje de Consulta Basado en Bloques para Bases de Datos Relacionales
 
 _El desarrollo y pruebas de la aplicación se realizó bajo el entorno de Windows Server 2012 R2 en un equipo con especificaciones estándar_
 
-Links:
+eNLACES
 <https://mariadb.com/downloads/>
+
 <https://www.apachefriends.org/es/download.html>
 
 
