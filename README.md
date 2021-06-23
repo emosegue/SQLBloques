@@ -5,7 +5,8 @@ Lenguaje de Consulta Basado en Bloques para Bases de Datos Relacionales
 
 _El desarrollo y pruebas de la aplicación se realizó bajo el entorno de Windows Server 2012 R2 en un equipo con especificaciones estándar_
 
-eNLACES
+Enlaces>
+
 <https://mariadb.com/downloads/>
 
 <https://www.apachefriends.org/es/download.html>
@@ -21,19 +22,20 @@ XAMPP 7.3.28 O cualquier Web Server
 
 _Se detalla la instalación, asumiendo que el usuario utilizará XAMPP como Web Server_
 
-_Instalar Maria DB 10.5.10 o posterior _
+_Instalar Maria DB 10.5.10 o posterior mediante el wizard estandar, sin destildar nada _
+_Instalar XAMPP DB 7.3.28 o posterior mediante el wizard estandar, sin destildar nada _
 
-```
-Da un ejemplo
-```
+Una vez que se ha instalado, verificar que los puertos tanto de http(80) y https(443) esten libres y caso contrario, modificarlos. Instalar tanto el servicio de MySQL y de Apache.
 
-_Y repite_
+Copiar el directorio de SQLBloques, dentro de la carpeta C:\xampp\htdocs\sqlbloques, asumiendo que XAMPP esta instalado en tal directorio.
 
-```
-hasta finalizar
-```
+Finalmanete laanzar ambos servicios mediante el boton "Start"
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+Acceder mediante Chrome a la URL: 
+
+http://localhost:8080/sqlbloques/
+
+*Se modificó el puerto de http de 80 a 8080
 
 ## Ejecutando las pruebas ⚙️
 
