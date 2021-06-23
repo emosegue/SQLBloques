@@ -1,5 +1,5 @@
 # SQLBloques
-Lenguaje de Consulta Basado en Bloques para Bases de Datos Relacionales
+Lenguaje de Consulta Basado en Bloques para Bases de Datos Relacionales 
 
 ### Pre-requisitos 📋
 
@@ -41,10 +41,17 @@ http://localhost:8080/sqlbloques/
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+_El proyecto se realizó bajo la modalidad Tesis de grado para la carrera Licenciatura en Ciencias de la Computacion en la Universidad Nacional del Comahue - Neuquén - Argentina_
 
 * **Martin Salazar** - *Trabajo Inicial* - <martin.salazar@est.fi.uncoma.edu.ar>
 * **Emanuel Mosegue** - *Extension de Funcionalidades* - [emosegue](https://github.com/villanuevand) . <emanuel.mosegue@fi.uncoma.edu.ar>
+
+## Dirección y Tutoría 🖇️
+
+_El proyecto se realizó bajo la dirección y tutoría de 
+
+* **Laura Cecchi**  <lcecchi@fi.uncoma.edu.ar>
+* **Jorge Rodriguez** <j.rodrig@fi.uncoma.edu.ar>
 
 ## Wiki 📖
 
