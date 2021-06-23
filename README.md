@@ -19,10 +19,10 @@ MariaDB 10.5.10
 XAMPP 7.3.28 O cualquier Web Server
 ```
 
-## Libreria
+## Public Javascript Library
 ```
 Blocky
-
+JQuery
 ```
 
 ### Instalación 🔧
