@@ -11,11 +11,18 @@ Enlaces:
 
 <https://www.apachefriends.org/es/download.html>
 
+<https://developers.google.com/blockly/guides/get-started/web>
 
 ## Software
 ```
 MariaDB 10.5.10 
 XAMPP 7.3.28 O cualquier Web Server
+```
+
+## Libreria
+```
+Blocky
+
 ```
 
 ### Instalación 🔧
