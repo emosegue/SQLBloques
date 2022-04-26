@@ -1,4 +1,5 @@
 ﻿<!DOCTYPE html>
+<!-- En entorno se modela -->
 <html>
   <head>
     <meta charset="utf-8">
@@ -73,9 +74,6 @@
     </form >
   </div>
   </div>
-<?php  
-  }
-?>
 
   <div id="blocklyDiv" style="height: 580px; width: 100%;"></div>
 
@@ -866,8 +864,6 @@ function mensajeError(codigo){
 //function consultar(s){
   //var re = document.getElementById('consu');
 //  re.innerHTML= s;
-//console.log(<?php $cons="s"; $res=mysqli_query($conexion_db,$cons);  $im="";  while ($col = mysqli_fetch_array( $res,MYSQLI_NUM )){      $im=$im." ".$col[0]; } echo "'".$cons."'" ?>);
-// console.log(<?php echo "'Errormessage: ".mysqli_error($res)."'" ?>);
 
 //}
 //    function onchange(event) {

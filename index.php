@@ -7,7 +7,7 @@
   <style>
     body {
       background:#9d99c1;
-      background-image:url('fondo.png'); 
+      background-image:url('images/fondo.png'); 
       background-repeat:no-repeat; 
       background-size:cover;
       font-family: sans-serif;
